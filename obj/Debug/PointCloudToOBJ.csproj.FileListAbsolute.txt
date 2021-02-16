@@ -1,0 +1,10 @@
+C:\Work\Code\IDE\My_projects\TestOnly\PointCloudToOBJ\bin\Debug\PointCloudToOBJ.exe.config
+C:\Work\Code\IDE\My_projects\TestOnly\PointCloudToOBJ\bin\Debug\PointCloudToOBJ.exe
+C:\Work\Code\IDE\My_projects\TestOnly\PointCloudToOBJ\bin\Debug\PointCloudToOBJ.pdb
+C:\Work\Code\IDE\My_projects\TestOnly\PointCloudToOBJ\obj\Debug\PointCloudToOBJ.csprojAssemblyReference.cache
+C:\Work\Code\IDE\My_projects\TestOnly\PointCloudToOBJ\obj\Debug\PointCloudToOBJ.Form1.resources
+C:\Work\Code\IDE\My_projects\TestOnly\PointCloudToOBJ\obj\Debug\PointCloudToOBJ.Properties.Resources.resources
+C:\Work\Code\IDE\My_projects\TestOnly\PointCloudToOBJ\obj\Debug\PointCloudToOBJ.csproj.GenerateResource.cache
+C:\Work\Code\IDE\My_projects\TestOnly\PointCloudToOBJ\obj\Debug\PointCloudToOBJ.csproj.CoreCompileInputs.cache
+C:\Work\Code\IDE\My_projects\TestOnly\PointCloudToOBJ\obj\Debug\PointCloudToOBJ.exe
+C:\Work\Code\IDE\My_projects\TestOnly\PointCloudToOBJ\obj\Debug\PointCloudToOBJ.pdb
